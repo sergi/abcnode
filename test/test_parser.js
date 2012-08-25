@@ -1,7 +1,7 @@
 var fs = require("fs");
 var PEG = require("pegjs");
 
-var parser = PEG.buildParser(fs.readFileSync("ABCParser.pegjs", "utf8"));
+var parser = PEG.buildParser(fs.readFileSync("parser.pegjs", "utf8"));
 var tunes = fs.readFileSync("test/tunes.txt", "utf8").split("\n\n");
 var mistakes = 0;
 

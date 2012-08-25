@@ -3039,10 +3039,15 @@ module.exports=(function(){
         }
         if (result0 !== null) {
           result0 = (function(offset, acc, bn, o) {
-            return {
+            var obj = {
                 accidental: acc,
                 note: bn + o
             }
+        
+            if (!acc)
+                delete obj.accidental;
+        
+            return obj;
         })(pos0, result0[0], result0[1], result0[2]);
         }
         if (result0 === null) {
