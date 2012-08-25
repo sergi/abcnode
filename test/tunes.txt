@@ -1,0 +1,1202 @@
+X:1
+T:B minor Polka
+R:polka
+S:Eileen Ni Riordan
+Z:id:hn-polka-1
+M:2/4
+L:1/8
+K:Bm
+af f>g|af f>g|af ef|dB c/B/A|af f>g|af fe|de/d/ cA|1 B2 BA:|2 B2 Bc||
+|:d/e/d/c/ df|e>d ce|dB c/B/A|Bc de|
+d/e/d/c/ df|e>d ce|dB c/B/A|1 B2 Bc:|2 B2 BA||
+
+X:2
+T:Ballydesmond Polka
+R:polka
+H:Often played with #3
+Z:id:hn-polka-2
+M:2/4
+L:1/8
+K:Ador
+EA A>B|cd eg|G2 G>A|GE ED|EA A>B|cd ef|ge dB|1 A2 A>G:|2 A2 A2||
+|:a>g ab|ag ef|g>f ga|ge ed|ea a>b|ag ef|ge dB|1 A2 A2:|2 A2 AG||
+
+X:3
+T:Ballydesmond Polka
+R:polka
+H:Often played after #2
+Z:id:hn-polka-3
+M:2/4
+L:1/8
+K:Ador
+cd/c/ Bc/B/|AB/A/ G>A|Bd ed|ga/g/ ed|ea g>e|dB GA/B/|ce dB|A2 A2:|
+|:ea ag/e/|dg gd|ea ab|ga/g/ ed|ea g>e|dB GA/B/|ce dB|A2 A2:|
+
+X:4
+T:Ballybunnion Polka, The
+R:polka
+Z:id:hn-polka-4
+M:2/4
+L:1/8
+K:D
+F>D FA|G>F GB|AB cd|e/d/c/e/ dA|B/A/B/c/ dB|A/B/A/G/ FA|GA/G/ FE|D2 D2:|
+|:fA fA|f/g/f/e/ fa|e>f ed|e/f/e/d/ BA|A/B/A/G/ FA|A/B/A/G/ FA|GA/G/ FE|D2 D2:|
+
+X:5
+T:Siege of Ennis, The
+R:polka
+S:Eileen Ni Riordan
+H:Also played in G. Also played with only the first two parts. See #106
+H:The last two parts in this version have been added later.
+H:Originally a march called "The Banks of Inverness" in Scotland and
+H:"Salmon Tails Up the Water" in Northumbria.
+Z:id:hn-polka-5
+M:2/4
+L:1/8
+K:A
+E>F EC|EF A>B|ce Bc/B/|AF dF|E>F EC|EF A>B|ce Bc/B/|1 A2 AF:|2 A2 AB||
+ce ec|df fe|ce Bc/B/|AF dF|ce ec|df fg|af g/f/e|f2 fg|
+af g/f/e|f/g/f/e/ cB|ce Bc/B/|AF dF|E>F EC|EF A>B|ce Bc/B/|A2 AB||
+|:ce ce|ce ec/e/|fe ce|f/a/f/e/ cB|
+ce ce|ce ec/e/|fe cB|1 c/B/A A>B:|2 c/B/A A2||
+|:Ac ed/e/|fe d>e|ec AB|cB c/B/A|Ac ed/e/|fe d>e|ec AF|1 FE E2:|2 FE EC||
+
+X:6
+T:Cathy's Favourite
+R:polka
+Z:id:hn-polka-6
+M:2/4
+L:1/8
+K:D
+D>D FA|dc BA|BE EF|GA/G/ FE|D>D FA|dcBA|Be Bc|d2 d2:|
+|:eB eB|eB B>c|dA dA|dA A2|eB eB|eB B>c|dB AF|E2 E2:|
+
+X:7
+T:McElroy's Fancy
+T:Pat Hogan's Two
+R:polka
+H:A version of #114
+Z:id:hn-polka-7
+M:2/4
+L:1/8
+K:Edor
+B2 B>A|FA D2|B>c BA|B/c/d ed|B2 B>A|FA D>E|FD AF|E2 E2:|
+|:Be e>f|ed BA|Be e>f|ed Bc|d>e dB|AF D>E|FD AF|E2 E2:|
+
+X:8
+T:Peggy Ryan's Fancy
+T:Murroe, The
+R:polka
+Z:id:hn-polka-8
+M:2/4
+L:1/8
+K:G
+Bd G>A|Bd GB|A2 FA|GF ED|Bd G>A|Bd GB|A2 FA|AG G>A:|
+|:Bd ef|g2 ga|f/e/d ef|ed BA|Bd ef|g2 ga|f/e/d ef|e2 ed:|
+
+X:9
+T:John Ryan's
+R:polka
+D:Planxty
+Z:id:hn-polka-9
+M:2/4
+L:1/8
+K:D
+dd B/c/d/B/|AF AF|dd B/c/d/B/|AF ED|
+dd B/c/d/B/|AF Ad/e/|fd e/d/c|1 d2 d2:|2 d2 d>e||
+|:fd de/f/|gf ed/e/|fd Ad|fd/f/ a>g|
+fd de/f/|gf ed/e/|fd e/d/c|1 d2 d>e:|2 d2 d2||
+
+X:10
+T:Dennis Murphy's
+R:polka
+D:Planxty
+Z:id:hn-polka-10
+M:2/4
+L:1/8
+K:D
+f/g/f/e/ d/e/d/B/|AD FA|GE e>d|cB BA|
+f/g/f/e/ d/e/d/B/|AD FA|GE e>f|1 ed de:|2 ed d>B||
+|:Af f/e/f|Ag g/f/g|Af f/e/f|e/f/e/d/ BA|
+Af f/e/f|Ag g>a|ba gc|1 ed d>B:|2 ed de||
+
+X:11
+T:Scartaglen Polka, The
+T:Humours of Ballydesmond, The
+T:Knocknabower Polka # 1, The
+R:polka
+D:Davy Spillane: Atlantic Bridge
+Z:id:hn-polka-11
+M:2/4
+L:1/8
+K:G
+GD G>A|Bd de/f/|gB B/A/G/A/|BA AB/A/|GD G>A|Bd de/f/|gB AB/A/|G2 G>A:|
+|:Bd g>f|fe e/f/g/e/|dB B/A/G/A/|BA AG/A/|
+Bd g>f|fe e/f/g/e/|dB AB/A/|1 G2 G>A:|2 G2 Gd||
+|:gg ag/a/|b2 ba|gg ag/a/|b2 ba|
+ge e/f/g/e/|dB g>e|dB AB/A/|1 G2 Gd:|2 G2 G>A||
+
+X:12
+T:Egan's Polka
+T:Faba
+R:polka
+Z:id:hn-polka-12
+M:2/4
+L:1/8
+K:D
+fA BA|fA BA|d2 e>f|ed BA|fA BA|fA BA|d2 e>f|ed d>e:|
+|:fa fe|ed BA|d2 e>f|ed BA|fa fe|ed BA|d2 e>f|ed d>e:|
+
+X:13
+T:Bill Sullivan's
+R:polka
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-polka-13
+M:2/4
+L:1/8
+K:A
+a2 a>f|ec a>f|ec a>f|ec BA|a2 a>f|ec a>f|ec B>c|1 BA A2:|2 BA A>B||
+|:ce ec|df fe|ce eA/B/|cB BA/B/|ce ec|df fe|ce B>c|1 BA A>B:|2 BA A2||
+a2 a>f|ec a>e|ce a>e|ce BA|a2 a>f|ec a>e|ce B>c|1 BA A2:|2 BA A>B||
+|:ce e/c/A/c/|df fe|ce e/c/A/B/|cB BA/B/|ce ec|df fe|ce B>c|1 BA A>B:|2 BA A2||
+
+X:14
+T:Britches Full of Stitches
+T:Breeches Full of Stitches
+R:polka
+Z:id:hn-polka-14
+M:2/4
+L:1/8
+K:A
+A>B cA|BA cA|A>B cA|BA FE|A>B cA|BA ce|A>B AF|FE E2:|
+|:e>f ec|BA Bc|e>f ec|BA F2|e>f ec|BA Bc|A>B AF|FE E2:|
+
+X:15
+T:42 Pound Cheque, The
+T:42 Pound Check, The
+R:polka
+Z:id:hn-polka-15
+M:2/4
+L:1/8
+K:D
+Ad Bd/B/|AD FA|GE BE|A>G FD|Ad Bd/B/|AD FA|GE A>G|FD D2:|
+|:Ad fe/f/|gf ed|cA eA|e>d cA|Ad fe/f/|gf e>d|cA Bc|d2 d2:|
+
+X:16
+T:Peggy Lettermore
+R:polka
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:G
+Bd BG|Bd d>A|Bd cB|A2 AG/A/|Bd BG|Bd g>e|dB cA|1 G2 G>A:|2 G2 Ge/f/||
+|:g2 d>c|Bd de/f/|gd cB|A2 Ae/f/|gg d>c|Bc d>e|dc BA|1 G2 Ge/f/:|2 G2 G>A||
+
+X:17
+T:Winster Gallop
+R:polka
+Z:id:hn-polka-17
+M:2/4
+L:1/8
+K:G
+GB GB|GB d2|AB/c/ BA|GB d2|ce g>e|dB d>B|AB/c/ BA|G2 G2:|
+|:gf ed|gf ed|gf ed|cB A2|fe d2|fe d2|d2 A>c|BG G2:|
+
+X:18
+T:Maid of Ardagh, The
+T:Sliabh Mhachaire
+T:Johnny O'Leary's
+R:polka
+Z:id:hn-polka-18
+M:2/4
+L:1/8
+K:D
+FA/A/ BA|de f2|fe/f/ gc|ed BA|FA/A/ BA|de f2|fe/f/ gc|ed d2:|
+|:ef/e/ ce|fe a2|ef/e/ ce|fe c/B/A|ef/e/ ce|fe a2|ef/e/ dB|BA A2:|
+
+X:19
+T:Maggie in the Wood
+T:An bhFaca T'u Mo Sh'eamais'in
+T:If I Had Maggie in the Wood
+R:polka
+Z:id:hn-polka-19
+M:2/4
+L:1/8
+K:G
+GD G>A|Be eg/e/|dB B/A/G/A/|BA AB/A/|
+GD G>A|Be eg/e/|dB AB/A/|1 G2 GA:|2 G2 Ge/f/||
+|:gf ed|ef g>e|dB B/A/G/A/|BA Ae/f/|
+gf ed|ef g>e|dB AB/A/|1 G2 Ge/f/:|2 G2 GA||
+GD G/F/G/A/|Be eg/e/|dB G>A|BA AB/A/|
+GD G/F/G/A/|Be eg/e/|dB AB|1 AG G>A:|2 AG Ge/f/||
+|:gf ed|Be eg/e/|dB AG/A/|BA Ae/f/|
+gf ed|Be eg/e/|dB AB|1 AG Ge/f/:|2 AG G>A||
+
+X:20
+T:Sweeney's
+R:polka
+Z:id:hn-polka-20
+M:2/4
+L:1/8
+K:G
+de/d/ Bd|Gd Bd|e/f/g/e/ dB|AG E2|
+de/d/ Bd|Gd Bd|e/f/g/e/ dB|1 AG G2:|2 AG G>A||
+|:Bd e/f/g/e/|dB AG/A/|Bd e/f/g/e/|dB A2|
+Bd e/f/g/e/|dB AG|de/d/ BA|1 AG G>A:|2 AG G2||
+
+X:21
+T:Dennis Doody's Polka
+R:polka
+H:See also "The Glen Cottage", #90
+H:Related to the Scottish strathspey/reel Alister McAlister
+H:(Alasdair Mac Alasdair)
+D:Donal Lunny: Live at the National Concert Hall
+Z:id:hn-polka-21
+M:2/4
+L:1/8
+K:Edor
+B/A/|:GE F/E/D|B,E EG|F/G/A/F/ D>E|FG AB/A/|GE F/E/D|B,E E>F|GA B>A|GF dF:|
+|:Be e/f/e/d/|Be e/f/e/d/|Be ef|fg e>f|fg fg|eB BA|B2 E>F|GA B>A:|
+
+X:22
+T:Barren Rocks of Aden, The
+R:polka
+C:A MacKellar
+S:Mary Bergin
+Z:id:hn-polka-22
+M:2/4
+L:1/8
+K:D
+f2 f>e|df A>d|ce AB/c/|dA de|f2 f>e|df A>d|ce AB/c/|d2 d2:|
+|:af de/f/|eg A>f|ge ce|df A2|af de/f/|eg A>f|ge ce|d2 d2:|
+
+X:23
+T:Kerry Cow, The
+R:polka
+S:Mary Bergin
+H:See also #108
+Z:id:hn-polka-23
+M:2/4
+L:1/8
+K:D
+A>B AG|FA d2|G>A GF|EF G/F/E|A>B AG|FA de/d/|cA GE|D2 D2:|
+|:d>e fd|cA A>d|BG GA/B/|cA A2|d>e fd|cA Ad|BG AF|D2 D2:|
+
+X:24
+T:Taur Polka, The
+R:polka
+S:Session at Fleadh Ceol in Sligo, 1990
+Z:id:hn-polka-24
+M:2/4
+L:1/8
+K:Dmix
+AD FA|d^c AB|=c>B cE|EF GE|AD FA|d^c AB|=c>B cE|ED D2:|
+|:fg/f/ ed|^cA Ae|fg/f/ ef|ag e=f|fg/f/ ed|^cA AB|=c>B cE|ED D2:|
+
+X:25
+T:Ask Our Dan
+T:Knocknabower Polka #2, The
+T:Knocknaboul Polka, The
+T:Sneem Polka, The
+R:polka
+S:Session at Fleadh Ceol in Sligo, 1990
+Z:id:hn-polka-25
+M:2/4
+L:1/8
+K:G
+GB B/c/B/A/|GB B/c/B/A/|FA A/B/A/G/|FA A/B/A/G/|
+GB B/c/B/A/|GB d>g|fd cA|1 G2 GD:|2 G2 G2||
+|:g2 g>f|gb ag|fd de|fg a/g/f|g2 g>f|gb ag|fd cA|1 G2 G2:|2 G2 GA||
+|:B2 B>c|dB AG|FD DE|FG AG|B2 B>c|dB Ag|fd cA|1 G2 GA:|2 G2 GD||
+
+X:26
+T:Jamie Allen
+R:polka
+Z:id:hn-polka-26
+M:2/4
+L:1/8
+K:D
+FD D>E|FD EF|GE EF|GA/G/ FE|Dd dc|BA FG|AB/A/ GE|1 D2 D>E:|2 DE FE||
+|:Dd dc|BA GF|Ee ed|cA Bc|d>e dB|A2 FG|AB/A/ GE|1 DE FE:|2 D2 D>E||
+
+X:27
+T:Four Shoves, The
+R:polka
+Z:id:hn-polka-27
+M:2/4
+L:1/8
+K:Edor
+EB B/A/B|EB A2|EB B/A/B/c/|d2 A2|EB B/A/B|EB A2|EB B/A/B/c/|d2 A2:|
+|:df ef/e/|df f>e|df ef/e/|dB BA|d2 ef/e/|df fe|fg/f/ ef/e/|d2 d2:|
+
+X:28
+T:Ger the Rigger
+R:polka
+Z:id:hn-polka-28
+M:2/4
+L:1/8
+K:Amix
+eA eA|e/f/e/d/ cB/A/|d2 d/e/f/g/|ae fe|
+eA eA|e/f/e/d/ cB/A/|df/d/ ce/c/|B/A/B/c/ A2:|
+|:ae f/e/c/e/|ae f/e/c/e/|d2 d/e/f/g/|ae fe|
+ae f/e/c/e/|ae f/e/c/e/|df/d/ ce/c/|B/A/B/c/ A2:|
+
+X:29
+T:Clog, The
+R:polka
+S:Mary Bergin
+Z:id:hn-polka-29
+M:2/4
+L:1/8
+K:D
+AD FA|G/A/G/F/ EF/G/|AD FA|de/d/ cB|
+AD FA|G/A/G/F/ E2|c/B/A ce|1 de/d/ cB:|2 d2 d>e||
+|:fa gf|ec A>e|fd af|e2 ed/e/|fa gf|ec A>B|c/B/A ce|1 d2 d>e:|2 de/d/ cB||
+
+X:30
+T:Other Clog, The
+R:polka
+S:Mary Bergin
+Z:id:hn-polka-30
+M:2/4
+L:1/8
+K:G
+BG G>A|BG GB|AD FG|AB c/B/A|BG G>A|BG GB|AD FA|AG G>A:|
+|:Bd ce|dg B>d|dc A>e|ed B2|Bd ce|dg B>d|dc AF|G2 G>A:|
+
+X:31
+T:Wren's Polka, The
+T:Cuil Aodha Polka, The
+R:polka
+Z:id:hn-polka-31
+M:2/4
+L:1/8
+K:A
+Ac EF|A>A Af|ec BA|e/f/e/c/ Bc/B/|Ac EF|A>A Af|ec BA/B/|1 cA AE:|2 cA AB||
+|:ce ce|a2 af|ec BA|e/f/e/c/ BA|ce ce|a2 af|ec BA/B/|1 cA AB:|2 cA AE||
+
+X:32
+T:Glen Cottage, The
+R:polka
+Z:id:hn-polka-32
+M:2/4
+L:1/8
+K:Ador
+eA Bd|e/f/e/d/ Bd|eA BA|G>A Bd|eA Bd|e/f/e/d/ Bd|ea e/f/e/d/|BA A2:|
+|:e2 ef/g/|ae fe|d2 de/f/|ge fd|e2 ef/g/|ae fe|ea e/f/e/d/|BA A2:|
+
+X:33
+T:My Love is But a Lassie
+T:Farewell to Whiskey
+R:polka
+D:John McKenna
+D:Frankie Gavin: Croch Suas E
+Z:id:hn-polka-33
+M:2/4
+L:1/8
+K:G
+G/E/|DG B/A/G/A/|BE EG/E/|DG B/A/G/B/|dB Bd|
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|1 BG G:|2 BG G2||
+|:dB/d/ gd|e/f/g/e/ dB|dB/d/ gd|ef g>d|
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|1 BG G2:|2 BG G||
+
+X:34
+T:Dark Girl Dressed in Blue, The
+R:polka
+D:John McKenna
+D:Frankie Gavin: Croch Suas E
+Z:id:hn-polka-34
+M:2/4
+L:1/8
+K:D
+FA Ad|B/c/d A>F|GB AF|BE G/F/E/D/|FA Ad|B/c/d A>F|GB A/B/A/G/|FD D2:|
+|:FA A/B/d/e/|~f>d ed|Bd AF|BE G/F/E/D/|FA A/B/d/e/|f>d ed|Bd A/B/A/G/|FD D2:|
+
+X:35
+T:Biddy Martin's
+R:polka
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-polka-35
+M:2/4
+L:1/8
+K:D
+f/e/d Be|ef ed|f/e/d Be|eA d2|f/e/d Be|ef ed|f/e/d Be|eA d2:|
+|:f/a/f ef|af ed|f/a/f ef|af e2|f/a/f ef|af ed|f/e/d Be|eA d2:|
+
+X:36
+T:no name
+R:polka
+Z:id:hn-polka-36
+M:2/4
+L:1/8
+K:G
+B2 B>A|Bd ed|B>A Bd|B/A/G A2|B>c BA|Bd ed|e>f ed|ef g2:|
+|:GB/d/ ed|gd ed|GB/d/ ed|B/A/G A2|GB/d/ ed|gd ed|e>f ed|ef g2:|
+
+X:37
+T:Where Lilies Bloom
+R:polka
+Z:id:hn-polka-37
+M:2/4
+L:1/8
+K:D
+DF/A/ BA|d>e dc|BA B/c/d|BA FD|DF/A/ BA|d>e dc|BA B/c/d|ed d2:|
+|:fg/f/ ef/e/|de/d/ cA|BA B/c/d|BA FA|1 fg/f/ ef/e/|de/d/ cA|BA B/c/d|
+ed d2:|2 DF/A/ BA|d>e dc|BA B/c/d|ed d2||
+
+X:38
+T:Ballyvourney Polka, The
+T:Salmon Tailing Up the River, The
+R:polka
+Z:id:hn-polka-38
+M:2/4
+L:1/8
+K:Edor
+EF/G/ FE|FD F/G/A|EF/G/ FE|F2 A2|
+EF/G/ FE|FD F/G/A|B>A B/c/d|1 e2 e2:|2 e2 eB/c/||
+|:dA FA|DA FA|B>A GB|A2 AB/c/|dA FA|DA FA|B>A B/c/d|1 e2 f>e:|2 e2 e2||
+
+X:39
+T:Rambling Sailor, The
+R:polka
+D:Jackie Daly: Many's a Wild Night
+Z:id:hn-polka-39
+M:2/4
+L:1/8
+K:A
+A>B ce|ae fa|A>B ce|fc ec|A>B ce|ae fe|fa/f/ ec|1 BA A2:|2 BA AB||
+|:c>d cB|c/d/e fe|c>d cB|c/B/A B2|c>d cB|c/d/e fe|fa/f/ ec|1 BA AB:|2 BA A2||
+
+X:40
+T:New Roundabout, The
+R:polka
+Z:id:hn-polka-40
+M:2/4
+L:1/8
+K:D
+de fg|a2 af|g>g fe|df AA|de fg|aa/a/ af|gg/g/ fe|1 d2 dA:|2 d2 cd||
+|:ee/e/ fe|df af|ee/e/ fe|dB BA|ee/e/ fe|df af|gg/g/ fe|1 d2 cd:|2 d2 dA||
+
+X:41
+T:Ievan polkka
+T:Savitaipaleen polkka
+T:Finnish Polka
+R:polka
+D:Kevin Burke: Up Close
+O:South Karelia
+Z:id:hn-polka-41
+M:2/4
+L:1/8
+K:Bm
+B>B Bc|dB Bd|cA Ac|d/c/B/A/ BF|B>B Bc|dB B2|ef/e/ dc|B2 B2:|
+|:f>d df|ec cd|ef/e/ dc|Bc de|f>d df|ec cd|ef/e/ dc|B2 B2:|
+
+X:42
+T:Johnny Leary's Polka
+R:polka
+Z:id:hn-polka-42
+M:2/4
+L:1/8
+K:D
+ff/f/ ge|ff/f/ ge|fd ed|e/f/e/d/ BA|
+ff/f/ ge|ff/f/ ge|fd e/d/c|1 df de:|2 df dB||
+|:A>B AF|Af af|e>d ef/e/|dA B/c/d/B/|
+A>B AF|Af af|ef gb|1 ef/e/ dB:|2 ef/e/ de||
+
+X:43
+T:Sliabh Luachra Polka, The
+R:polka
+Z:id:hn-polka-43
+M:2/4
+L:1/8
+K:D
+dA BA|dA Bd|B>A Bd|e2 ef/e/|df Bd|Ad FD|E>D EF|1 D2 DB/c/:|2 D2 DE||
+|:FA AB|Ad d>B|AF ED/E/|FE EG|FA AB|Ad d>B|AF EF|1 D2 DE:|2 D2 DB/c/||
+
+X:44
+T:no name
+R:polka
+Z:id:hn-polka-44
+M:2/4
+L:1/8
+K:A
+ef/e/ ce/c/|BE A>c|BE AB|cB Bc|ef/e/ ce/c/|BE A>c|BE AB|cA A2:|
+|:ce ab/a/|gf f>e|ce fa|fe cB|ce ab/a/|gf fe|ce fg|a2 a2:|
+
+X:45
+T:Gullane Polka, The
+R:polka
+Z:id:hn-polka-45
+M:2/4
+L:1/8
+K:D
+Ad BA|DF FE/D/|CE GE|BA F>G|Ad BA|DF FE/D/|CE GE|1 ED D2:|2 ED DE||
+|:FE/F/ GF/G/|BA FD|AB/A/ GE|BA FD|FE/F/ GF/G/|BA FD|AB/A/ GE|1 ED DE:|2 ED D2||
+
+X:46
+T:no name
+R:polka
+C:Willie Hunter, Shetland
+Z:id:hn-polka-46
+M:2/4
+L:1/8
+K:A
+A>B AE|FA E>A|FB BA/B/|cB Bc|A>B AE|FA E>A|FB BA/B/|1 cA A2:|2 cA A/B/c/d/||
+|:e>f eA|f2 f2|Bf fB|g2 g2|cg gc|a2 g>a|eA c/B/A/B/|1 cA A/B/c/d/:|2 cA A2||
+
+X:47
+T:Des's Polka
+R:polka
+C:Desmond Carthy, Dublin
+H:Composed to go after #46
+Z:id:hn-polka-47
+M:2/4
+L:1/8
+K:A
+A>B cd|ea e>d|cA AB/c/|dB =GB|A>B cd|ea e>d|cA B^G|1 A2 AE:|2 A2 A2||
+|:ea e>c|ea e>d|cA AB/c/|dB =GB|1 ea e>c|ea e>d|cA B^G|
+A2 A2:|2 A>B cd|ea e>d|cA B^G|A2 AE||
+
+X:48
+T:Up and Away
+R:polka
+D:John McKenna & Michael Gaffney 1934 (Decca)
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-48
+M:2/4
+L:1/8
+K:G
+d2 B2|B/A/B/c/ BD|A>B A/F/D/F/|AG G/A/B/c/|
+d2 B2|B/A/B/c/ BD|A>B A/F/D/F/|1 AG GB:|2 AG G2||
+|:b/a/g/b/ a/g/f/e/|db b/a/b|da a/g/a|dg g/f/g|
+b/a/g/b/ a/g/f/e/|db b/a/b|da a/g/a/b/|ag g2:|
+
+X:49
+T:Mountain Pathway, The
+R:polka
+D:Joe McHugh & Barry Carroll: The Long Finger
+D:Mary Bergin: Feadoga Stain 2
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-49
+M:2/4
+L:1/8
+K:G
+B2 B/A/G/B/|dc cd|ed df|a/g/f/a/ gf|
+e2 g>f|ed/^c/ d2|d/f/a/f/ d/f/a/f/|1 d/f/a/f/ gd:|2 d/f/a/f/ gf||
+|:gd g>a|bg gg/f/|ec ef/g/|a/g/f/a/ gg/e/|
+d/e/d/B/ GB/c/|d/e/d/B/ GA/B/|cA A/F/D/F/|1 AG G2:|2 AG GA||
+
+X:50
+T:no name
+R:polka
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-polka-50
+M:2/4
+L:1/8
+K:D
+Af A>A|Bg B>B|Ad fg/f/|ed B/c/d/B/|Af A>A|Bg B>B|Ad fg/f/|ed d>B:|
+|:Ad f>g|fe e>d|ef ga|ba f>f|Ad f>g|fe e>d|ef gc|ed d>B:|
+
+X:51
+T:Girl With the Blue Dress On, The
+R:polka
+Z:id:hn-polka-51
+M:2/4
+L:1/8
+K:G
+de/d/ cA/c/|BG G/F/G/B/|AF F/E/F/G/|AG GB|
+de/d/ cA/c/|BG G/F/G/B/|AF F/E/F/G/|AG G2:|
+|:g/d/B/d/ g>g|fe e/d/e|f/c/A/c/ f>f|ed d/c/B/A/|
+GB/d/ g>g|fe e/f/g|fa ef|ag g2:|
+
+X:52
+T:Julia Clifford's
+R:polka
+D:Mary Bergin: Feadoga Stain 2
+Z:id:hn-polka-52
+M:2/4
+L:1/8
+K:D
+Ad f/e/d/c/|dF A>d|cE G/B/G/B/|AD DF|Ad f/e/d/c/|dF A>d|cA GE|ED D2:|
+|:ad d/e/d/B/|cb b>c'|bc c/B/c/B/|Aa a/b/a/f/|
+ad d/e/d/B/|cb b>c'|bc cB/c/|1 ed d/e/f/g/:|2 ed d>B||
+
+X:54
+T:O'Keeffe's Polka
+R:polka
+D:De Danann: The Mist Covered Mountain
+Z:id:hn-polka-54
+M:2/4
+L:1/8
+K:Bm
+dB bB|de f>e|dB bB|c/B/A/c/ ef/e/|dB bB|de f>e|d>e f/e/d|1 B2 B>c:|2 B2 B2||
+|:fe/f/ ba|fe f>e|dB bB|c/B/A/c/ ed/e/|
+fe/f/ ba|fe f>e|d>e f/e/d|1 B2 B2:|2 B2 B>c||
+
+X:55
+T:Johnny I Do Miss You
+R:polka
+D:De Danann: The Mist Covered Mountain
+Z:id:hn-polka-55
+M:2/4
+L:1/8
+K:D
+AF ED|F2 A,>E|FB AF|E2 d>B|AF ED|F2 A,F|GA/G/ FE|1 D2 d>B:|2 D2 DE||
+FA A/B/A/G/|FA A>G|FA Bc|d2 d2|FA A/B/A/G/|FA d>e|fe ed|e2 ef||
+FA A/B/A/G/|FA A>G|FA Bc|d2 d>B|AF ED|F2 A,F|GA/G/ FE|D2 d>B||
+
+X:56
+T:Walshe's Polka
+R:polka
+Z:id:hn-polka-56
+M:2/4
+L:1/8
+K:A
+A>B cB|AF FE|CE FE|CE FE|A>B cB|AF FE|CE FE|1 A2 AE:|2 A2 A2||
+|:ab/a/ ga|ba af|ec cB|AB ce|ab/a/ ga|ba af|ec cB|1 A2 A2:|2 A2 E2||
+
+X:57
+T:Dan Mac's Polka
+R:polka
+Z:id:hn-polka-57
+M:2/4
+L:1/8
+K:D
+DF AF/A/|dc Bc|EF GF/G/|BA F2|DF AF/A/|dc Bc|EF G/A/G/E/|DF D2:|
+|:fA fA|fA f2|eB eB|B/c/d e2|fA fA|fA f>f|eB cd|1 ed d>e:|2 ed d2||
+
+X:58
+T:Newmarket Polka, The
+R:polka
+Z:id:hn-polka-58
+M:2/4
+L:1/8
+K:A
+E>E Ec|BA FA|E>E Ec|BA AF|E>E Ec|BA FA|E2 e>c|1 BA AF:|2 BA A>B||
+ce B>c|BA FA|ce B>c|BA AB|ce B>c|BA FA|E>E Ec|BA AB||
+ce B>c|BA FA|ce Bc/e/|fe cB|ce B>c|BA FA|E>E Ec|BA AF||
+
+X:59
+T:no name
+R:polka
+Z:id:hn-polka-59
+M:2/4
+L:1/8
+K:D
+fa af/a/|ba fa|ga/g/ Bc|ed c/B/A|a2 af/a/|ba fa|ga/g/ Bc|ed de:|
+|:f (3g/f/e/ fe|dc BA|g>f ga|ba f/g/a|f (3g/f/e/ fe|dc BA|ga/g/ Bc|ed de:|
+
+X:60
+T:Walsh's Polka
+R:polka
+Z:id:hn-polka-60
+M:2/4
+L:1/8
+K:A
+Ac ef|ec c/d/c/B/|Ac ef|e2 ea|Ac ef|ec c/d/c/B/|AF FE|1 A2 AB:|2 A2 Ac/e/||
+|:fe c/d/c/B/|AF FE|A>B Ac|e2 ec/e/|
+fe c/d/c/B/|AF FE|A>B AF|1 A2 Ac/e/:|2 A2 AB||
+
+X:61
+T:Lackagh Cross
+T:Bill the Weaver's
+T:Bill the Weaver's #2
+T:Din Tarrant's #1
+T:Lacha Cross
+T:Walsh's Polka
+R:polka
+Z:id:hn-polka-61
+M:2/4
+L:1/8
+K:Bm
+dB fB|dB fe/d/|c/B/A/c/ e/c/A/B/|c/B/A/c/ ec/e/|
+fb ba|fb ba|fa fe/d/|1 c/B/A BB/c/:|2 c/B/A Bf||
+|:a>f df|A/B/c/d/ e2|g/f/e/d/ cA|Bc df|
+a>f df|A/B/c/d/ e2|g/f/e/d/ cA|1 Bc df:|2 Bc dB/c/||
+
+X:62
+T:Jim Keeffe's
+R:polka
+Z:id:hn-polka-62
+M:2/4
+L:1/8
+K:D
+dc/d/ ed|cA Ae|fd ef|g2 fe|dc/d/ ed|cA Ae|fa ge|1 d2 dA:|2 d2 de||
+|:f (3g/f/e/ fd|g (3a/g/f/ ge|f (3g/f/e/ fa|ge ce|
+f (3g/f/e/ fd|g (3a/g/f/ ge|fa ge|1 d2 de:|2 d2 dA||
+
+X:63
+T:Jimmy Doyle's
+R:polka
+H:Also in A, #93
+Z:id:hn-polka-63
+M:2/4
+L:1/8
+K:G
+Bd de|dB BA/B/|dB AB|dB G>A|Bd de|dB BA/B/|dG BA|1 AG G>A:|2 AG G2||
+|:dg ga/g/|fe e>f|ed Bd|ed BA|dg ga/g/|fe e/f/g/e/|dG BA|1 AG G2:|2 AG G>A||
+
+X:64
+T:Lass of Gowrie, The
+T:Lakes of Sligo, The
+R:polka
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-64
+M:2/4
+L:1/8
+K:D
+FA AB|d>e dc|BA B/c/d|e>d ef|FA AB|de f>e|dB Af|1 ef/e/ dA:|2 ef/e/ d>e||
+|:fa de|fa ag/f/|gb ef|gb ba|fa ef|de f>e|dB Af|1 ef/e/ d>e:|2 ef/e/ dA||
+
+X:65
+T:no name
+R:polka
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-65
+M:2/4
+L:1/8
+K:Ador
+A>B cd|ea ge|d>e dB|AB G2|A>B cd|ea ge|dB gB|1 BA AG:|2 BA A2||
+|:ea ag/a/|ba gd|ea ag/a/|ba g2|ea ag/a/|ba ge|dB gB|1 BA A2:|2 BA AG||
+
+X:66
+T:Gabhair'in Bu'i, An
+T:Yellow Goat, The
+T:T'a Dh'a Ghabhair'in Bhu'i Agam
+T:I Have Two Yellow Goats
+R:polka
+D:Begley & Cooney: Meitheal
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:G
+D>E GA|B2 AG|BA AG/A/|BA Bd|D>E GA|B2 AB/A/|GE ED/E/|1 GE EG:|2 GE Ed||
+|:ed eg|d2 c>B|BA AB|cA Ad|ed eg|d2 c>B|BG G>A|1 BG Gd:|2 BG GE||
+
+X:67
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #70, #75
+Z:id:hn-polka-67
+M:2/4
+L:1/8
+K:A
+AB/c/ df|eA c2|ef/e/ dB|BA c>B|AB/c/ df|eA c2|ef/e/ dB|BA A2:|
+|:ef/g/ ag/f/|eA c2|ef/e/ dB|BA c2|ef/g/ ag/f/|eA c2|ef/e/ dB|BA A2:|
+
+X:68
+T:Return of Spring, The
+R:polka
+D:Joe McHugh & Barry Carroll: The Long Finger
+Z:id:hn-polka-68
+M:2/4
+L:1/8
+K:G
+d>e dB|G2 GD|GB/d/ ed|c2 cB|cd cA|F2 F2|d (3B/^c/d/ ed|B2 Bc|
+d>e dB|G2 GD|GB/d/ ed|c2 cB|Af f/e/f|Ae e/d/e|dB cA|G2 Gd||
+|:g>g ge|f>f fd|ed Bc|d2 dB|G (3B/^c/d/ ed|1 A2 A2|d (3B/^c/d/ ed|
+B2 Bd:|2 A>A Ag|fd ef|g2 ge||
+|:dd g>f|ee a>g|fd ef|ed Bc|dd g>f|ee a>g|fd ef|g2 ge:|
+
+X:69
+T:Ballydesmond Polka
+T:Donncha Lynch's
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-69
+M:2/4
+L:1/8
+K:Dmix
+A>B AG|EF GE|A>B AG|Ad d/e/d/c/|A>B AG|EF G2|AB cE|ED D2:|
+Ad d>d|ed c>d|ed cd|ea a/b/a/g/|ed c>d|ed c2|A>B cd|ef g>f|
+ed ^cd|eA B/^c/d|ed ^cd|ea a/b/a/g/|e/f/g d>B|ce dB|AB cE|ED D2||
+
+X:70
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #75
+Z:id:hn-polka-70
+M:2/4
+L:1/8
+K:D
+DE/F/ GB|AD F2|AB/A/ GE|DF F>E|DE/F/ GB|AD F2|AB/A/ GE|ED D2:|
+|:G>B dB|AD F2|AB/A/ GE|DF F2|G>B dB|AD F2|AB/A/ GE|ED D2:|
+
+X:71
+T:Tony Lowe's Polka
+T:Maid in the Blue Bonnet, The
+T:Toormore #1
+T:Tournmore, The
+T:Tuar Mor #1, The
+T:Gullane Polka, The
+T:Wallace's Cross
+R:polka
+Z:id:hn-polka-71
+M:2/4
+L:1/8
+K:D
+ef/e/ dB|BA B/c/d|ef/e/ dB|BA A2|ef/e/ dB|BA B/c/d|af/a/ gc|1 ed d2:|2 ed de||
+|:f>e fA|B/c/d ef|g>f ga|ba f/g/a|f>e fA|B/c/d ef|af/a/ gc|1 ed de:|2 ed d2||
+
+X:72
+T:Tripping to the Well
+T:John McKenna's
+R:polka
+H:Also played in A, see #107
+D:John McKenna & Eddie Meehan 1937 (Decca)
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-72
+M:2/4
+L:1/8
+K:G
+G>A BG|EG ED|G>A Bd|BA AB|G>A BG|EG ED|BG D/E/F/G/|1 AG GD:|2 AG G>B||
+|:dB G>A|BG ED|dB G>A|BA AB|dB G>A|BG ED|BG D/E/F/G/|1 AG G>B:|2 AG GD||
+
+X:73
+T:I'll Buy Boots for Maggie
+R:polka
+Z:id:hn-polka-73
+M:2/4
+L:1/8
+K:Am
+EA AB|cB AB|EA AB|cB A2|EA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+EA AB|cB AB|FA AB|cB A2|^FA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+
+X:74
+T:Miss Mahany's Favourite
+R:polka
+Z:id:hn-polka-74
+M:2/4
+L:1/8
+K:D
+d2 B/c/d|AF Dd|ec AB/c/|de fe|d2 B/c/d|AF Dd|ec AB/c/|1 d2 A2:|2 d2 d2||
+|:f>e f/g/a|bg ed|c/B/A Bc|de fe|f>e f/g/a|bg ed|c/B/A Bc|1 d2 d2:|2 d2 A2||
+
+X:75
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #70
+Z:id:hn-polka-75
+M:2/4
+L:1/8
+K:D
+DE/F/ GB|AD F2|AB/A/ GE|DE FA|DE/F/ GB|AD F2|AB/A/ GE|ED D2:|
+|:AB/c/ dc|BA F2|AB/A/ GE|DE FA|AB/c/ dc|BA F2|AB/A/ GE|ED D2:|
+
+X:76
+T:Little Diamond, The
+T:Girl from Lettermore, The
+R:polka
+H:On the Begley & Cooney recording it is called "The Magic Slipper",
+H:which is actually the name of another polka which was recorded in the
+H:same medley as this polka in 1936 by James Morrison and Tom Carmody.
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-76
+M:2/4
+L:1/8
+K:D
+A>B AF|DF Ad|A>B AF|GF EF/E/|DE FG|AB cd|e>d ce|1 d2 dB:|2 d2 de||
+fd ge|fd cB|Ad cd|fe ed/e/|fd ge|fd cB|Ag ec|d2 d>e|
+fa ge|fd cB|Ad cd|fe ed/e/|fd ge|fd cB|Ag ec|d2 dB||
+
+X:77
+T:J P Polka
+R:polka
+Z:id:hn-polka-77
+M:2/4
+L:1/8
+K:D
+dc/d/ ed|cA AF|GF/G/ AG|FD DE/F/|GE AG|FA de/f/|ge cA|d2 dA:|
+|:dc/d/ fa|ge ed|c/B/A eA|fA eA|dc/d/ fa|ge ed|c/B/A Bc|d2 dA:|
+
+X:78
+T:P'adraig O'Keeffe's
+R:polka
+Z:id:hn-polka-78
+M:2/4
+L:1/8
+K:A
+A>B ce|fg a2|fe ce|f/a/f/e/ ce|A>B ce|fg a2|fe cB|1 A2 AE:|2 A2 A2||
+|:a>g fe|fg a2|fe ce|f/a/f/e/ ce|a>g fe|fg a2|fe cB|1 A2 A2:|2 A2 AE||
+
+X:79
+T:Nell Fee's
+R:polka
+Z:id:hn-polka-79
+M:2/4
+L:1/8
+K:D
+D>D DB|AF FB|AF DE|FE E2|D>D DB|AF FB|AF EF|1 D2 D2:|2 D2 DA||
+|:d2 e2|f2 ff|ed Bc|d2 dA|Bd/B/ AF|Bd/B/ AF|AF EF|1 D2 DA:|2 D2 D2||
+
+X:80
+T:Charlie Harris' Polka
+R:polka
+H:A polka version of Charlie Harris' Reel
+D:Kevin Burke: Up Close
+Z:id:hn-polka-80
+M:2/4
+L:1/8
+K:D
+d>B|:AF DF|EF DF|AF AB|e2 d>B|AF DF|EF DF|AF AB|1 d2 c>B:|2 d2 dA||
+d2 fd|ef dB|AF AB|e2 dA|d2 fd|ef dB|AF AB|d2 dA|
+d2 fd|ef dB|AF AB|e2 ef|df f/e/f/g/|af f>g|af ef|d2||
+
+X:81
+T:Hayden Fancy, The
+R:polka
+Z:id:hn-polka-81
+M:2/4
+L:1/8
+K:D
+A>B df|A>B d/f/e/d/|eB BA/B/|dB Bd|A>B df|A>B d/f/e/d/|eB cd|ed d2:|
+af f/e/d/f/|af f>e|dB BA/B/|dB BA|af f/e/d/f/|af f>e|dB cd|ed d2:|
+
+X:82
+T:Jim Keefe's Polka
+R:polka
+D:Jackie Daly: Music from Sliabh Luachra
+Z:id:hn-polka-82
+M:2/4
+L:1/8
+K:A
+ea c/e/c/B/|Ac EB|cB Bc/e/|fe ce|ea c/e/c/B/|Ac EB|cB cB|1 A2 A2:|2 A2 A>B||
+|:cB Bc/e/|fe cB|cB Bc/e/|fe ce|ea c/e/c/B/|Ac EB|cB cB|1 A2 A>B:|2 A2 A2||
+
+X:83
+T:Mrs. Crowley's
+R:polka
+Z:id:hn-polka-83
+M:2/4
+L:1/8
+K:G
+DG EG/E/|DG EG/E/|DG AG/A/|BA AE|
+DG EG/E/|DG EG/E/|DG AG/A/|1 BG GE:|2 BG GB/c/||
+|:dB gB|dB gB|dB gf/g/|aA AB/c/|dB gB|dB gB|GB AG/A/|1 BG GB/c/:|2 BG GE||
+
+X:84
+T:Jessica's Polka
+R:polka
+C:Mick Hanly
+H:Composed by Mick Hanly for his newborn daughter
+D:Kevin Burke: Up Close
+D:Mick Hanly: As I Went over Blackwater
+Z:id:hn-polka-84
+M:2/4
+L:1/8
+K:A
+ef/e/ ce|fe Bc|A>B cA|ec B2|ef/e/ ce|fe Bc|A>B cA|FA E2:|
+|:F>B AF|cB A2|ef/e/ ce|ag f2|ef/e/ ce|fe Bc|A>B cA|FA E2:|
+
+X:85
+T:Rakes of Mallow, The
+R:polka
+Z:id:hn-polka-85
+M:2/4
+L:1/8
+K:G
+GB GB|GB c/B/A/G/|FA FA|FA d/c/B/A/|GB GB|GB d>B|c/B/A/G/ F/G/A/c/|BG G2:|
+|:gf/e/ dc|Bc d2|gf/e/ dc|Bc A2|gf/e/ dc|Bc d>B|c/B/A/G/ F/G/A/c/|BG G2:|
+
+X:86
+T:Saint Mary's
+T:Gurteen Cross
+R:polka
+D:Chieftains 1.
+Z:id:hn-polka-86
+M:2/4
+L:1/8
+K:G
+GB AB/A/|Gg e/f/g/e/|dB AG/A/|BB/A/ G/F/E/D/|
+GB AB/A/|Gg e/f/g/e/|dB AB/A/|1 G2 G (3D/E/F/:|2 G2 G>A||
+|:Bd ~g>d|Bd ~g>d|Bd ge|f2 fg|
+~a>g e/f/g/e/|dB AG/A/|Be d/B/A/B/|1 G2 G>A:|2 G2 G (3D/E/F/||
+
+X:87
+T:Strathnairn, The
+R:polka
+C:Stephen Cooney
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-87
+M:2/4
+L:1/8
+K:Bm
+B/c/B/A/ Fd|Bc BA|FE/D/ AF|E2 EF/A/|B>c BA|Fd cd|FA FD|1 B,2 B,B:|2 B,2 B,e||
+ef/e/ dB|Ad fd|gf/e/ de/f/|e2 e2|ef/e/ dB|Ad cd|FA FD|B,2 B,e|
+ef/e/ dB|Ad fa|b3 c'|ba f/e/d|ef/e/ dB|Ad cd|FA FD|B,2 B,B||
+
+X:88
+T:Church Street
+R:polka
+D:Chieftains 1.
+Z:id:hn-polka-88
+M:2/4
+L:1/8
+K:G
+d/c/|:BG D>D|Ec cA/B/|cE F>E|Dd d/e/d/c/|
+BG D>D|Ec cA/B/|c/B/A/G/ F/D/E/F/|1 GB Gd/c/:|2 GB GB/d/||
+|:gg ff|c7/2 e/|ee dd|B3 B/c/|
+d>e dB|A2 AB/A/|1 G>A Bc|d2 de/f/:|2 Gg fa|g2 g||
+
+X:89
+T:Johnny Leary's
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-89
+M:2/4
+L:1/8
+K:A
+A/B/A/F/ EF|AB ce|fe ce/c/|BA FA|A/B/A/F/ EF|AB ce|fe ce/c/|BA A2:|
+|:fe ce|fe e2|a>f ec|BA FA|A/B/A/F/ EF|AB ce|fe ce/c/|BA A2:|
+
+X:90
+T:Glen Cottage, The
+R:polka
+H:See also "Dennis Doody's", #21
+H:Related to the Scottish strathspey/reel Alister McAlister
+H:(Alasdair Mac Alasdair)
+Z:id:hn-polka-90
+M:2/4
+L:1/8
+K:Edor
+B>A|:GE ED|B,E E>F|GF ED|GA B>A|GE ED|B,E E2|B>A GF|1 E2 B>A:|2 E2 E2||
+|:Be e>f|eB BA|B/d/e df|e2 ef|ga/g/ fg/f/|ed BA|BE E/F/G/A/|B2 B>A:|
+
+X:91
+T:Dul dT'i's Na R'aiseanna
+T:Going to the Races
+R:polka
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-91
+M:2/4
+L:1/8
+K:E
+E/F/G/A/ BG|eG BG|E/F/G/A/ BG|eF F/A/G/F/|
+E/F/G/A/ BG|eG BG|AF/A/ B/c/B/A/|GE E2:|
+|:e>f ec|f>f fd|e>e ec|fc cd|
+e>f ec|f>f fd|eB cB/A/|GE E2:|
+
+X:92
+T:Cuz Teehan's
+T:Cuz Teahan's Delight
+R:polka
+C:Cuz Teahan
+D:Begley & Cooney: Meitheal
+Z:id:hn-polka-92
+M:2/4
+L:1/8
+K:A
+cd/c/ BA|FA AB|cd/c/ BA|Bc e2|cd/c/ BA|FA AB|cB/c/ ec|1 BA AB:|2 BA A2||
+|:af ec|ec BA|af ec|B/c/d e2|af ec|ec BA|cB/c/ ec|1 BA A2:|2 BA AB||
+
+X:93
+T:Jimmy Doyle's
+R:polka
+H:Also in G, #63
+D:Humdingers: Live in Oslo
+Z:id:hn-polka-93
+M:2/4
+L:1/8
+K:A
+ce ef|ec cB/c/|ec Bc|ec A>B|ce ef|ec cB/c/|eA cB|1 BA A>B:|2 BA A2||
+|:ef/g/ aa|gf f>f|fe ce|fe e2|ef/g/ aa|gf f>f|ec cB|1 BA A2:|2 BA A>B||
+
+X:94
+T:Eddie Smyth's
+R:polka
+D:Humdingers: Live in Oslo
+Z:id:hn-polka-94
+M:2/4
+L:1/8
+K:D
+a2 af/a/|ba af|g>g ge|a2 ag|fd de/f/|gf ed|c/B/A Bc|1 de fg:|2 d2 B2||
+|:Af fe/f/|gf e=f|fd df|ed BA|Af fe/f/|gf ed|c/B/A Bc|1 d2 B2:|2 de fg||
+
+X:95
+T:Merry Girl, The
+R:polka
+D:John McKenna & Michael Gaffney 1934 (Decca)
+Z:id:hn-polka-95
+M:2/4
+L:1/8
+K:G
+DB B/A/B|D^c d/c/d|f/e/d/c/ A/G/E/F/|GF E/D/E/F/|
+DB B/A/B|D^c d/c/d|f/e/d/c/ A/G/E/F/|AG G2:|
+|:g/d/B/d/ g>a|fe e/d/e|f/c/A/c/ f>f|ed d/^c/d|
+g/d/B/d/ g>a|fe e/d/e/f/|df/e/ d/c/B/A/|GF G2:|
+
+X:96
+T:Thady Regan
+R:polka
+D:John McKenna & James Morrison 1928 (Columbia)
+Z:id:hn-polka-96
+M:2/4
+L:1/8
+K:D
+FG AB/c/|de de/f/|ge fd|1 BA A>G:|2 BA A2||
+fa af|ed de|fa af|ed e2|fa af|ed de/f/|ge fd|BA A>G||
+
+X:97
+T:Tripping on the Mountain
+R:polka
+D:John McKenna & James Morrison 1928 (Columbia)
+Z:id:hn-polka-96
+M:2/4
+L:1/8
+K:D
+f/e/|:dA FA|d>c d/e/f/e/|dA FA|Be ef/e/|
+dA FA|dg f>e|d/B/A/F/ A/B/d/e/|1 fd df/e/:|2 fd df/g/||
+|:af ge|fd df/g/|af g/f/g/a/|be ef/g/|
+af ge|fd f>e|d/B/A/F/ A/B/d/e/|1 fd df/g/:|2 fd d||
+
+X:98
+T:no name
+R:polka
+S:Dudde. "The Ballyvourney Polka", #38, was played after it.
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+K:Dmix
+FG|A>A AB|cA FG|AB c/B/A|G2 FG|A>A AB|cA ^ef|ed AF|G2:|
+|:fg|a>g fa|ge fg|ag fa|g2 fg|a>g fa|ge fe|ed AF|G2:|
+
+X:99
+T:no name
+R:polka
+D:Kevin Conneff: The Week before Easter
+Z:id:hn-polka-99
+M:2/4
+L:1/8
+K:G
+B2 G2|de/f/ gB|A2 AB|de/d/ BA|B2 G2|de/f/ gB|AA BA|1 GF GA:|2 GF Gg||
+|:fa d2|e>d BA|B>A GE|B>A GE|fa d2|e>d BA|B>A GB/d/|g2 g2:|
+
+X:100
+T:no name
+R:polka
+D:Kevin Conneff: The Week before Easter
+Z:id:hn-polka-100
+M:2/4
+L:1/8
+K:G
+Bd cA|D2 B2|D2 A2|D2 B>A|Bd cA|D2 B>A|Bd cA|1 G2 GA:|2 G2 GB||
+|:e2 ef/e/|d2 de|f2 fd|g2 gf|e2 e>f|ed dc|B/c/d ef|gd ef|
+g2 d>c|BG GA/G/|FA AB/A/|GA Bd|g2 d2|B2 BA|Bd cA|1 G2 GB:|2 G2 GA||
+
+X: 48
+T:Hector the Hero
+M:3/4
+L:1/8
+C:Scott Skinner
+K:A
+A2B2|:"A"c3 BA2|"D"f4ec|"A"e4-ef|e4AB|\
+"F#m"c4BA|"D"f4ec|"Bm"B4-Bc|"E"B4ce|
+"F#m"c3 BA2|"D"f4ec|"A"e4A2|"D"a4f2|\
+"A"e4Ac|"E"B4A2|"A"A6 -|[1 A2A2B2:|[2 A2c2e2||
+:"D"f4df|a4gf|"A"e4-ef|e4ce|\
+"F#m"f4ec|e4Ac|"Bm"B4-Bc|"E"B4ce|
+"D"f4df|a4gf|"A"e4dc|"D"a4d2|\
+"A"c4Ac|"E"B4A2|"A"A6 -|[1 A2c2e2:|[2 A2 z2|
