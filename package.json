@@ -1,17 +1,17 @@
 {
-  "name": "ABCParser",
-  "id": "abcparser",
+  "name": "abcnode",
+  "id": "abcnode",
   "version": "0.0.1",
-  "description": "ABC music notation parser",
+  "description": "ABC notation parser for JavaScript",
   "keywords": [ "abc", "music", "notation", "parser", "json" ],
   "author": "Sergi Mansilla <sergi.mansilla@gmail.com> (http://sergimansilla.com)",
-  "homepage": "https://github.com/sergi/abcparser",
+  "homepage": "https://github.com/sergi/abcnode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sergi/abcparser.git"
+    "url": "https://github.com/sergi/abcnode.git"
   },
   "bugs": {
-    "url": "https://github.com/sergi/abcparser/issues"
+    "url": "https://github.com/sergi/abcnode/issues"
   },
   "dependencies": {
     "pegjs": "0.7.0"
