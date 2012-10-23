@@ -162,7 +162,7 @@ stave
  = measures:measure+ _ { return measures; }
 
 measure
- = _ bar? notes:(note_element / tuplet)+ _ bar:(bar / nth_repeat) ("\\" nl)? {
+ = _ bar? notes:(note_element / tuplet)+ _ bar:(bar / nth_repeat) nth_repeat? ("\\" nl)? {
 
     var finalNotes = [];
     var counter    = 0;
@@ -236,13 +236,18 @@ note_stem
 
 chord = "[" n:note+ "]" { return n }
 
-note = n:note_or_rest time:time_signature? tie? {
+note = n:note_or_rest time:time_signature? (_? tie:tie)? {
     if (time) {
         n.duration = time.duration;
         n.dots = time.dots
-    } else {
+    }
+    else {
         n.duration = defaultTime || defaultMeter;
     }
+
+    if (tie)
+        n.tie = true;
+
     return n;
 }
 note_or_rest = n:(pitch / rest) { return n }
