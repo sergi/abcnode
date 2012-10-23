@@ -9,7 +9,7 @@ tunes.forEach(function(p) {
     try {
         var parsed = parser.parse(p + "\n");
         console.log("\x1B[0;32m:)\x1B[0m " + parsed.header.title)
-        console.log(JSON.stringify(parsed, null, 2))
+        //console.log(JSON.stringify(parsed, null, 2))
     }
     catch (error) {
         console.log("\x1B[0;31m\nSyntax Error:");
