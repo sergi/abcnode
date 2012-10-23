@@ -1186,6 +1186,19 @@ Bd cA|D2 B2|D2 A2|D2 B>A|Bd cA|D2 B>A|Bd cA|1 G2 GA:|2 G2 GB||
 |:e2 ef/e/|d2 de|f2 fd|g2 gf|e2 e>f|ed dc|B/c/d ef|gd ef|
 g2 d>c|BG GA/G/|FA AB/A/|GA Bd|g2 d2|B2 BA|Bd cA|1 G2 GB:|2 G2 GA||
 
+X:1
+T:Paddy O'Rafferty
+C:Trad.
+M:6/8
+Q:200
+K:D
+dff cee|def gfe|dff cee|dfe dBA|
+dff cee|def gfe|faf gfe|[1 dfe dBA:|[2 dfe dcB|]
+A3 B3|gfe fdB|AFA B2c|dfe dcB|
+A3 B3|efe efg|faf gfe|[1 dfe dcB:|[2 dfe dBA|]
+fAA eAA| def gfe|fAA eAA|dfe dBA|
+fAA eAA| def gfe|faf gfe|dfe dBA:|
+
 X: 48
 T:Hector the Hero
 M:3/4
