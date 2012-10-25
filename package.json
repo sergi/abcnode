@@ -1,7 +1,7 @@
 {
   "name": "abcnode",
   "id": "abcnode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ABC notation parser for JavaScript",
   "keywords": [ "abc", "music", "notation", "parser", "json" ],
   "author": "Sergi Mansilla <sergi.mansilla@gmail.com> (http://sergimansilla.com)",

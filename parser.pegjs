@@ -236,7 +236,7 @@ note_stem
 
 chord = "[" n:note+ "]" { return n }
 
-note = n:note_or_rest time:time_signature? (_? tie:tie)? {
+note = n:note_or_rest time:time_signature? _? tie:tie? {
     if (time) {
         n.duration = time.duration;
         n.dots = time.dots
