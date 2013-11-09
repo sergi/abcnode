@@ -1,1 +1,1 @@
-module.exports = require('./build/ABCParser.js');
+module.exports = require('./build/parser.js');
